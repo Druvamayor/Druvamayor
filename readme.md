@@ -65,8 +65,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ❤️ &emsp; I love the flexibility of cloud computing, enabling me to easily scale resources up or down to meet the organization's changing needs. <br/><br/>
- ✌ &emsp; The fast-paced nature of web development means there's always something new to learn, which I find exciting and stimulating.<br/><br/>
+ ❤️ &emsp; I love the flexibility of cloud computing, enabling me to easily scale resources up or down <br/><br/> to meet the organization's changing needs.
+ ✌ &emsp; The fast-paced nature of web development means there's always something new to learn, <br/><br/> which I find exciting and stimulating.<br/><br/>
  📧 &emsp; Contact me via: juanchomendz2013@gmail.com<br/><br/>
  💬 &emsp; Ask me about cloud on Amazon Web Service (AWS) [here](https://github.com/druvamayor/druvamayor/issues)
 
