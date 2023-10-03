@@ -39,7 +39,7 @@
 
 <p align="center">
  <a href="https://github/druvamayor/portfolio" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Juan" />
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Juan" />
  </a>
  <a href="https://linkedin.com/juangabrielmendezmora" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan"/>
