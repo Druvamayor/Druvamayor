@@ -39,13 +39,13 @@
 
 <p align="center">
  <a href="https://github/druvamayor/portfolio" target="blank">
-  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Juan" />
+  <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
  <a href="https://linkedin.com/juangabrielmendezmora" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
  </a>
-  <a href="https://discordapp.com/users/mayi_06693_43028" taget="blank">
-    <img src="" alt="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=whiteuan"/>
+  <a href="https://discordapp.com/users/mayi_06693_43028" taget="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=whiteuan" alt="Discord"/>
   </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Juan" />
@@ -99,10 +99,10 @@
 ![AMAZON INDENTITY ACCESS MANAGEMENT (IAM)](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C.svg?style=for-the-badge&logo=Amazon-Identity-Access-Management&logoColor=white)
 ![AWS ORGANIZATIONS](https://img.shields.io/badge/AWS%20Organizations-E7157B.svg?style=for-the-badge&logo=AWS-Organizations&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
-![LINUX CONTAINERS (LXC)](https://img.shields.io/badge/Linux%20Containers-333333.svg?style=for-the-badge&logo=Linux-Containers&logoColor=white)
-[ANSIBLE](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
-![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![LINUX CONTAINERS (LXC)](https://img.shields.io/badge/Linux%20Containers-333333.svg?style=for-the-badge&logo=Linux-Containers&logoColor=white)
+![ANSIBLE](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
 ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
