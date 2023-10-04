@@ -27,7 +27,7 @@
  <a href="https://github/druvamayor/portfolio" target="blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
- <a href="https://linkedin.com/juangabrielmendezmora" target="_blank">
+ <a href="https://www.linkedin.com/in/juan-gabriel-mendez-mora/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
  </a>
   <a href="https://discordapp.com/users/mayi_06693_43028" taget="_blank">
