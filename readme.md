@@ -44,6 +44,9 @@
  <a href="https://linkedin.com/juangabrielmendezmora" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan"/>
  </a>
+  <a href="https://discordapp.com/users/mayi_06693_43028" taget="blank">
+    <img src="" alt="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=whiteuan"/>
+  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Juan" />
  </a> -->
@@ -89,10 +92,23 @@
 
 ## Cloud Infrastructure Technologies
 
-![Aws](https://img.shields.io/badge/Aws-F0DB4F?style=for-the-badge&labelColor=black&logo=aws&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![AMAZON EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=Amazon-EC2&logoColor=white)
+![AMAZON ROUTE 53](https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF.svg?style=for-the-badge&logo=Amazon-Route-53&logoColor=white)
+![AMAZON S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=Amazon-S3&logoColor=white)
+![AMAZON INDENTITY ACCESS MANAGEMENT (IAM)](https://img.shields.io/badge/Amazon%20Identity%20Access%20Management-DD344C.svg?style=for-the-badge&logo=Amazon-Identity-Access-Management&logoColor=white)
+![AWS ORGANIZATIONS](https://img.shields.io/badge/AWS%20Organizations-E7157B.svg?style=for-the-badge&logo=AWS-Organizations&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![LINUX CONTAINERS (LXC)](https://img.shields.io/badge/Linux%20Containers-333333.svg?style=for-the-badge&logo=Linux-Containers&logoColor=white)
+[ANSIBLE](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MARIADB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
+![NGINX PROXY MANAGER](https://img.shields.io/badge/Nginx%20Proxy%20Manager-F15833.svg?style=for-the-badge&logo=Nginx-Proxy-Manager&logoColor=white)
+![APACHE](https://img.shields.io/badge/Apache-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 
 <!--![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)-->
