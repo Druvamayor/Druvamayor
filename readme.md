@@ -46,6 +46,9 @@
   <p style="margin: auto 1rem;">
  <img align="right" width="350" src="/assets/coding.gif" alt="Coding gif" />
   </p>
+  
+<br/>
+  
   <p>
  ❤️ &emsp; I love the ability to instantly scale resources up or down based on demand on AWS cloud. <br/><br/>
  ✌ &emsp; I relish front-end web development's constant learning and fast-paced nature.<br/><br/>
@@ -54,7 +57,6 @@
   </p>
 </div>
 
-<br/>
 <br/>
 <br/>
 
