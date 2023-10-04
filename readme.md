@@ -47,7 +47,7 @@
   <a href="https://discordapp.com/users/mayi_06693_43028" taget="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/Druvamayor" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
