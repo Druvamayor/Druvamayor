@@ -3,7 +3,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/018afe8b-23c3-4028-b3cc-3e6f7af0cb56.svg)](https://wakatime.com/@018afe8b-23c3-4028-b3cc-3e6f7af0cb56)
 
 <!-- Intro  -->
 <h3 align="center">
