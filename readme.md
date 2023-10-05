@@ -92,7 +92,7 @@
 
 <br/>
 
-## Top Open Source -
+##  My Portfolio
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/web-projects)
 [![User Interface (UI) Design for Github Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/user-interface-ui-design-for-github-porfolio)
 [![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/druvamayor)
@@ -107,8 +107,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/druvamayor">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=druvamayor&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
 
