@@ -17,7 +17,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Juan+Gabriel+Mendez+Mora">「 Google Me 」</a>
     <br>
-    <p style="font-size: 14px;">
+    <p align="center">
     「 I am a Cloud Administrator and Front-end Web Developer from <b>Colombia</b> 」
     </p>
     <br>
