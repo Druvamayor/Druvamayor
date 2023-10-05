@@ -6,18 +6,20 @@
 [![wakatime](https://wakatime.com/badge/user/018afe8b-23c3-4028-b3cc-3e6f7af0cb56.svg)](https://wakatime.com/@018afe8b-23c3-4028-b3cc-3e6f7af0cb56)
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center" style="color:#1aa501;">
         <samp>&gt; Hey There!, I am Juan Mendez Mora
                 <b><a target="_blank" href="https://github/druvamayor/portfolio"></a></b>
         </samp>
-</h3>
+</h1>
 
 
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Juan+Gabriel+Mendez+Mora">「 Google Me 」</a>
     <br>
+    <p style="font-size: 14px;">
     「 I am a Cloud Administrator and Front-end Web Developer from <b>Colombia</b> 」
+    </p>
     <br>
     <br>
   </samp>
