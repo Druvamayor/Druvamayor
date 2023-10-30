@@ -95,9 +95,9 @@
 <br/>
 
 ##  My Portfolio
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/web-projects)
-[![User Interface (UI) Design for Github Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/user-interface-ui-design-for-github-porfolio)
-[![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/druvamayor/druvamayor)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)
+[![User Interface (UI) Design for Github Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://github.com/druvamayor/user-interface-ui-design-for-github-porfolio)
+[![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://github.com/druvamayor/druvamayor)
 
 
 <p align="left">
