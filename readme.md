@@ -96,7 +96,7 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
-[![AWS Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-cloud-computing-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-cloud-computing-projects)
+[![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-cloud-computing-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects)
 
 ## Web Apps Developed with React Js
 [![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
