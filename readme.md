@@ -94,9 +94,8 @@
 
 <br/>
 
-#  MY PORTFOLIO
+#  My Portfolio
 ## Cloud Computing Projects
-
 [![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects/)
 
 ## Web Apps Developed with React Js
