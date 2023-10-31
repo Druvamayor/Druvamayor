@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
- <a href="https://github/druvamayor/portfolio" target="blank">
+ <a href="https://github.com/Druvamayor/Druvamayor/blob/main/readme.md#my-portfolio" target="self">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
  <a href="https://www.linkedin.com/in/juan-gabriel-mendez-mora/" target="_blank">
