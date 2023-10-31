@@ -96,10 +96,10 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
-[![Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)
+[![Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)]
 
 ## WEB APP PROJECTS DEVELOPED WITH REACT JS
-[![App Events on React Js](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
+[![App Events on React Js](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)]
 
 ## User Interface (UI) Web Design Projects
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)
