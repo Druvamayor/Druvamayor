@@ -96,20 +96,18 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
-[![Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)]
+[![AWS Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)]()
 
-## WEB APP PROJECTS DEVELOPED WITH REACT JS
-[![App Events on React Js](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)]
+## Web Apps Developed with React Js
+[![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
 
 ## User Interface (UI) Web Design Projects
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)
-[![User Interface (UI) Design for Github Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://github.com/druvamayor/user-interface-ui-design-for-github-porfolio)
-[![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://github.com/druvamayor/druvamayor)
+[![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
+[![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
+[![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web/)
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/druvamayor/web-projects)
-[![User Interface (UI) Design for Github Porfolio](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://github.com/druvamayor/user-interface-ui-design-for-github-porfolio)
-[![GitHub Profile Readme](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=druvamayor&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://github.com/druvamayor/druvamayor)
-
+[![Restaurant Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/restaurant-web/)
+[![Tours Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/tours-web/)
 
 <p align="left">
   <a href="https://github.com/druvamayor?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
