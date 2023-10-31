@@ -104,7 +104,7 @@
 ## User Interface (UI) Web Design Projects
 [![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
 [![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
-[![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=/waterproofing-web&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web/)
+[![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=waterproofing-web&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web/)
 
 [![Restaurant Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/restaurant-web/)
 [![Tours Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/tours-web/)
