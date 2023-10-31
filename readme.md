@@ -96,7 +96,6 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
-I start by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I create a wireframe using design software to plan the visual elements and user interface. Next, I develop custom graphics and icons to enhance the design. In Gantry Framework, I build the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tune the typography, colors, and spacing, and finally, I test the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
 
 [![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-cloud-computing-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects)
 
@@ -104,6 +103,8 @@ I start by sketching out the layout and structure of the website on paper, consi
 [![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
 
 ## User Interface (UI) Web Design Projects
+I start by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I create a wireframe using design software to plan the visual elements and user interface. Next, I develop custom graphics and icons to enhance the design. In Gantry Framework, I build the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tune the typography, colors, and spacing, and finally, I test the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
+
 [![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=holistic-web&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
 [![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-agency&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
 [![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=waterproofing-web&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web/)
