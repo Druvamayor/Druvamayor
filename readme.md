@@ -96,6 +96,8 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
+I start by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I create a wireframe using design software to plan the visual elements and user interface. Next, I develop custom graphics and icons to enhance the design. In Gantry Framework, I build the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tune the typography, colors, and spacing, and finally, I test the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
+
 [![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-cloud-computing-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects)
 
 ## Web Apps Developed with React Js
