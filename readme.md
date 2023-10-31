@@ -103,7 +103,13 @@
 [![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
 
 ## User Interface (UI) Web Design Projects
-I start by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I create a wireframe using design software to plan the visual elements and user interface. Next, I develop custom graphics and icons to enhance the design. In Gantry Framework, I build the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tune the typography, colors, and spacing, and finally, I test the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
+👉 I started by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I created a wireframe using design software to plan the visual elements and user interface. Next, I developed custom graphics and icons to enhance the design. In Gantry Framework, I built the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tuned the typography, colors, and spacing, and finally, I tested the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
+
+👉 To set up the server for WordPress deployment, I chose reliable hosting providers and selected an appropriate server configuration based on the project's needs. Then, in some cases ,I installed a web server software such as Apache or Nginx and configured it to serve the WordPress site.
+
+👉 I created databases and users in MySQL or another database system like Mariadb, ensuring secure credentials. Next, I uploaded the WordPress files to the server via FTP or SSH. I configured the `wp-config.php` file with the database details and secret keys.
+
+👉 Finally, I secured the server by implementing SSL certificates, setting up firewalls, and regularly updating the server's software and WordPress core and plugins. This ensured a stable and secure environment for the WordPress site's deployment.
 
 [![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=holistic-web&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
 [![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-agency&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
