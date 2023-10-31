@@ -96,17 +96,17 @@
 
 #  MY PORTFOLIO
 ## Cloud Computing Projects
-[![AWS Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)]()
+[![AWS Cloud Computing Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-cloud-computing-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-cloud-computing-projects)
 
 ## Web Apps Developed with React Js
-[![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
+[![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/app-events-on-react)
 
 ## User Interface (UI) Web Design Projects
-[![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
-[![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
-[![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=waterproofing-web&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web)
-[![Restaurant Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/restaurant-web/)
-[![Tours Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=al-folio&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/tours-web/)
+[![Holistic Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=holistic-web&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/holistic-web/)
+[![Web Agency](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=web-agency&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/web-agency/)
+[![Waterproofing Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=waterproofing-web&border_color=#AC61E0&bg_color=0D1117&title_color=#AC61E0&text_color=8B949E&icon_color=#AC61E0)](https://druvamayor.github.io/waterproofing-web/)
+[![Restaurant Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=restaurant-web&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/restaurant-web/)
+[![Tours Web](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=tours-web&border_color=#E1DE80&bg_color=0D1117&title_color=#E1DE80&text_color=8B949E&icon_color=#E1DE80)](https://druvamayor.github.io/tours-web/)
 
 <p align="left">
   <a href="https://github.com/druvamayor?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
