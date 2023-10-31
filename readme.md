@@ -97,10 +97,10 @@
 #  MY PORTFOLIO
 ## Cloud Computing Projects
 
-[![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects)
+[![AWS Projects](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=aws-projects&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://github.com/Druvamayor/aws-projects/)
 
 ## Web Apps Developed with React Js
-[![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/app-events-on-react/build)
+[![App Events on React](https://github-readme-stats.vercel.app/api/pin/?username=druvamayor&repo=app-events-on-react&border_color=#63C8E0&bg_color=0D1117&title_color=#63C8E0&text_color=8B949E&icon_color=#63C8E0)](https://druvamayor.github.io/app-events-on-react/)
 
 ## User Interface (UI) Web Design Projects And Web Servers Setup
 👉 I started by sketching out the layout and structure of the website on paper, considering the client's requirements. Then, I created a wireframe using design software to plan the visual elements and user interface. Next, I developed custom graphics and icons to enhance the design. In Gantry Framework, I built the WordPress theme, incorporating my design elements and ensuring responsiveness for different devices. I fine-tuned the typography, colors, and spacing, and finally, I tested the website across browsers and devices, making any necessary adjustments to achieve a polished and functional web design.
