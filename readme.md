@@ -17,11 +17,11 @@
   <samp>
     <br>
     <p align="center">
-    「 I am a Cloud Administrator and Front-end Web Developer 」
+    <h3>「 I am a Front-end Web Developer, DevOps and Cloud Administrator」</h3>
     </p>
     <br>
     <p align="center">
-      <img width="480" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
+      <img width="580" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
     </p>
     <br>
     <br>
