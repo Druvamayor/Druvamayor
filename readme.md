@@ -18,6 +18,7 @@
     <h4 align="center"> { I am a Front-end Web Developer, DevOps and Cloud Administrator }</h4>
     </p>
     <br>
+    <br>
     <p align="center">
       <img width="580" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
     </p>
