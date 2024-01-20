@@ -21,7 +21,6 @@
     <p align="center">
       <img width="580" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
     </p>
-    <br>
   </samp>
 </p>
 
