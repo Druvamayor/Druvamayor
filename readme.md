@@ -17,8 +17,10 @@
   <samp>
     <br>
     <p align="center">
-      <img align="center" width="350" src="/assets/banner.png" alt="Coding gif" />
     「 I am a Cloud Administrator and Front-end Web Developer 」
+    </p>
+    <p>
+      <img align="center" width="350" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
     </p>
     <br>
     <br>
