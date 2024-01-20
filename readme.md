@@ -12,10 +12,8 @@
         </samp>
 </h1>
 
-
 <p align="center"> 
   <samp>
-    <br>
     <p align="center">
     <h4 align="center"> { I am a Front-end Web Developer, DevOps and Cloud Administrator }</h4>
     </p>
