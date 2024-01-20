@@ -49,7 +49,7 @@
 <br/>
 <br/>
   
- ❤️ &emsp; I love the ability to instantly scale resources up or down based on demand on AWS cloud. <br/><br/>
+ 👨🏻‍💻 &emsp; I like the ability to instantly scale resources up or down based on demand on AWS cloud. <br/><br/>
  ✌ &emsp; I relish front-end web development's constant learning and fast-paced nature.<br/><br/>
  📧 &emsp; Contact me via: juanchomendz2013@gmail.com<br/><br/>
  💬 &emsp; Ask me about Amazon Web Service (AWS) cloud. [here](https://github.com/druvamayor/druvamayor/issues)
