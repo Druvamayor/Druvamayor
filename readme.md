@@ -17,7 +17,7 @@
   <samp>
     <br>
     <p align="center">
-    <h3>「 I am a Front-end Web Developer, DevOps and Cloud Administrator」</h3>
+    <h3 align="center"> I am a Front-end Web Developer, DevOps and Cloud Administrator」</h3>
     </p>
     <br>
     <p align="center">
