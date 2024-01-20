@@ -20,7 +20,7 @@
     「 I am a Cloud Administrator and Front-end Web Developer 」
     </p>
     <p align="center">
-      <img width="350" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
+      <img width="600" src="/assets/banner.png" alt="Cloud Administrator and Front-end Developer" />
     </p>
     <br>
     <br>
